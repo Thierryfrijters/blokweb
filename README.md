@@ -39,11 +39,11 @@ Responsive
 https://skegss.com
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-hier de naam van de pagina  
+Home pagina van de Skeggs 
 <img src="images/skeggshome.jpg" width="375px" alt="Home pagina van de Skeggs">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-hier de naam van de pagina  
+Merchandise winkel van de Skeggs 
 <img src="images/skeggsstore.jpg" width="375px" alt="Merchandise winkel van de Skeggs">
  
 </details>
